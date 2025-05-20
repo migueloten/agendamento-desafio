@@ -27,7 +27,7 @@ Este projeto é uma aplicação web para gerenciamento de agendamentos de consul
 
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/seu-usuario/agendamento-desafio.git
+   git clone https://github.com/migueloten/agendamento-desafio.git
    cd agendamento-desafio
    ```
 
